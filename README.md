@@ -1,5 +1,7 @@
 # Website-Visitors
 
+#Time Series Analysis
+
 Time series analysis is a statistical technique used to analyze data sets collected over time. It explores the characteristics of a data point based on its position in a temporal sequence.
 
 What it focuses on:
